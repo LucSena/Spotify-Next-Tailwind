@@ -1,36 +1,35 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+Entendido! Peço desculpas pela confusão anterior. Vamos adaptar o README para refletir corretamente o seu projeto **Spotify-Next-Tailwind**:
 
-## Getting Started
+# Spotify-Next-Tailwind 🎵
 
-First, run the development server:
+## Descrição 📄
+Este é um projeto que recria a tela inicial do Spotify usando as tecnologias **Next.js** e **Tailwind CSS**. A aplicação tenta clonar a interface e os comportamentos do front-end do player web oficial do Spotify. Foi feito batendo o olho no software oficial e tentando recriar.
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+## Capturas de Tela 📸
+<!-- Adicione suas capturas de tela aqui -->
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+### Tela Inicial
+![Tela Inicial](public/imgit/Home.jpg)
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+### Tela de Listagem
+![Tela de Listagem](public/imgit/List.jpg)
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+## Tecnologias Utilizadas 🛠️
+![Next.js](https://img.shields.io/badge/Next.js-%2320232a.svg?style=for-the-badge&logo=next.js&logoColor=%2361DAFB)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-00D0B1?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-## Learn More
+## Como Executar o Projeto ▶️
+1. Clone o repositório: `git clone https://github.com/LucSena/Spotify-Next-Tailwind.git`
+2. Navegue até o diretório do projeto: `cd Spotify-Next-Tailwind`
+3. Instale as dependências: `npm install`
+4. Inicie o aplicativo: `npm start`
+5. Abra o navegador e acesse `http://localhost:3000`
 
-To learn more about Next.js, take a look at the following resources:
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+## Contribuindo 🤝
+Contribuições são bem-vindas! Sinta-se à vontade para abrir uma issue ou enviar um pull request.
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+## Licença 📜
+Este projeto está licenciado sob a [Licença MIT](LICENSE).
 
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+Se precisar de mais alguma ajuda ou tiver outras perguntas, estou à disposição! 😊
