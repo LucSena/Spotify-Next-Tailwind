@@ -20,7 +20,7 @@ Este é um projeto que recria a tela inicial do Spotify usando as tecnologias **
 1. Clone o repositório: `git clone https://github.com/LucSena/Spotify-Next-Tailwind.git`
 2. Navegue até o diretório do projeto: `cd Spotify-Next-Tailwind`
 3. Instale as dependências: `npm install`
-4. Inicie o aplicativo: `npm start`
+4. Inicie o aplicativo: `npm run dev`
 5. Abra o navegador e acesse `http://localhost:3000`
 
 
