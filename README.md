@@ -1,5 +1,3 @@
-Entendido! Peço desculpas pela confusão anterior. Vamos adaptar o README para refletir corretamente o seu projeto **Spotify-Next-Tailwind**:
-
 # Spotify-Next-Tailwind 🎵
 
 ## Descrição 📄
